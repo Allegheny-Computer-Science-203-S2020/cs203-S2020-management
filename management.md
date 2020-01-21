@@ -3,7 +3,7 @@
 ## Questions to Answer for Team-Based Software Engineering
 
 - How will you inventory the skills of team members to determine who is
-  suited for \mbox{specific tasks}?
+  suited for specific tasks?
 
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
@@ -15,7 +15,7 @@
   to maximum effectiveness?
 
 - When and how frequently will you give demonstrations of the software that
-  you \mbox{are engineering}?
+  you are engineering?
 
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
