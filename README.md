@@ -3,16 +3,17 @@
 This repository contains the management guide for [Computer Science 203 Spring
 2020](https://www.gregorykapfhammer.com/teaching/cs203S2020/). The students and
 instructor will add this management guide to a new GitHub Classroom repository
-each when the software engineering team is completing an assignment. Team
-members and project managers should refer to this guide during the completion of
-the long-term software projects.
+each when the software engineering team is completing an assignment. The team
+members,project managers, student technical leaders, and the course instructor
+will refer to this guide during the completion of the long-term software
+projects.
 
 ## Documenting the Project Management Structure
 
 During the Spring 2020 semester, you will work in an entire-class team to
 design, implement, test, document, deploy, and use two large-scale software
 applications. During each week of the semester, you will work with your team on
-tasks for one of these projects. 
+tasks for one of these projects.
 
 ## Problems with the Management Plan
 
