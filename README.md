@@ -9,8 +9,10 @@ refer to this guide during the completion of the long-term software projects.
 
 During the Spring 2020 semester, you will work in an entire-class team to
 design, implement, test, document, deploy, and use two large-scale software
-applications. During each week of the semester, you will work with your team on
-tasks for one of these projects.
+applications. During each upcoming week of the semester, you will work with your
+team on tasks for one of these projects. This project management plan in this
+repository will explain how your team will effectively collaborate during each
+project.
 
 ## Problems with the Management Plan
 
