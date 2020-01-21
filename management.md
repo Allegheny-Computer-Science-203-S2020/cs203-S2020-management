@@ -11,6 +11,10 @@
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
+    * communicating with each other and the project managers what we
+      have and have not worked on yet, so they can properly organize the work
+      amoungst the groups
+
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
 
