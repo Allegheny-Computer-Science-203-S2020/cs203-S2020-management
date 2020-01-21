@@ -25,6 +25,7 @@
 
 - How will your team elicit, analyze, and document the requirements for the
   software project?
+  - Elicit the requirements for the software project by talking to the customer(s)	(student technical leaders and the instructor).
 
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
