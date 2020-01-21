@@ -1,12 +1,9 @@
 # cs203-S2020-management
 
 This repository contains the management guide for [Computer Science 203 Spring
-2020](https://www.gregorykapfhammer.com/teaching/cs203S2020/). The students and
-instructor will add this management guide to a new GitHub Classroom repository
-each when the software engineering team is completing an assignment. The team
-members,project managers, student technical leaders, and the course instructor
-will refer to this guide during the completion of the long-term software
-projects.
+2020](https://www.gregorykapfhammer.com/teaching/cs203S2020/). The team members,
+project managers, student technical leaders, and the course instructor will
+refer to this guide during the completion of the long-term software projects.
 
 ## Documenting the Project Management Structure
 
