@@ -13,7 +13,9 @@
 
     * communicating with each other and the project managers what we
       have and have not worked on yet, so they can properly organize the work
-      amoungst the groups
+      amongst the groups
+    * Making sure that people get to do work outside of their first role for
+      each project
 
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
