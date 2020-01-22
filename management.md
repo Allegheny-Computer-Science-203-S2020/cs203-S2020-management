@@ -34,7 +34,7 @@
 
 - What process will the team follow to find, report, and fix defects in the
   software project?
-    - To find defects:
+  - To find defects:
 
       In order to find the defects in a software project, first check the error
       messages terminal. Secondly, if there still are defects, check the test
@@ -42,8 +42,8 @@
       part of the program does not pass the checks. Also check GitHub peer
       reviews since a classmate might be able to catch a mistake that
       slipped by.
-    - Report:
-    
+  - Report:
+
     There are many tools that software engineers use to communicate and report
     any bugs, errors, or defects in the project. Each tool has a different
     purpose, and benefit for using it. GitHub issue trackers and pull request
@@ -52,13 +52,13 @@
     communication through group chats and channels designated to specific
     topics. All of these tools combined would greatly help us communicate and
     report our progress as well as issues we face.
-      - GitHub issue tracker
-      - Communicate through Slack
-      - Comment in a pull request thread
-    - Fix:
-      - Search for solution on the internet
-      - Trial and Error with the help of test cases
-      - Ask classmates for help
+    - GitHub issue tracker
+    - Communicate through Slack
+    - Comment in a pull request thread
+  - Fix:
+    - Search for solution on the internet
+    - Trial and Error with the help of test cases
+    - Ask classmates for help
 
 - How will your team know when it is finished with the implementation of the
   software project?
