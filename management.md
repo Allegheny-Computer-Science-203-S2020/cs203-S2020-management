@@ -80,4 +80,3 @@
 
 - How will your team know when it is finished with the
   implementation of the software project?
-  
