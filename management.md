@@ -31,7 +31,8 @@
 
 - What is your team's software development and testing process for creating
   new features?
-    When developing a new feature the first step is to create an issue in the GitHub
+
+When developing a new feature the first step is to create an issue in the GitHub
 Issue Tracker. This issue should outline the purpose of this new feature and the
 steps needed for feature development. If this feature solves any current issues
 open in the Issue Tracker, connect the issue numbers. Then assign the members of
