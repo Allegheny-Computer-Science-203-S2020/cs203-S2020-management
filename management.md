@@ -23,18 +23,13 @@
 - How and when will your team conduct blame-less postmortems to resolve
   project mistakes?
 
-  Team members should look at incidents as a learning opportunity. So, blame and
-  judgment is intended to be eliminated from the process of resolving project
-  mistakes. - Marisol
-
-  The team should take on the postmortems as problem that is everyone's
-  responsibility to solve. We will recognize these problems without assigning
-  blame to a singular person, which will allow us to more quickly implement a
-  solution. The postmortem could be brought up through a Github issue tracker
-  where we can discuss the nature of the problem and the potential solution.
-  By also bring the postmortems to everyone’s attention it will allow us to pool
-  our expertise and devise a solution that will solve the problem, and hopefully
-  prevent related problems to the postmortem. - Jordan B.
+  We will take on blame-less postmortems as problem that is a collective
+  responsibility to solve. Without assigning blame to a singular person, these
+  problems are a learning opportunity. When a problem arises, the person
+  that notices the issue should share this information through a Github issue tracker.
+  Here is where we can discuss the nature of the problem and present solutions.
+  With postmortems it will allow us to pool our expertise and devise a solution that
+  will solve the problem, and prevent future errors.
 
 - How will your team elicit, analyze, and document the requirements for the
   software project?
