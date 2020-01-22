@@ -65,11 +65,11 @@
 
   - Fix:
 
-    Finding defects is an important part of getting your
+    Fixing defects is an important part of getting your
     code to work smoothly. The first step is doing
     some research to try to find a solution. This
     research can be found online or in a book. The second step is
-    asking fo help to a classmate, technical
+    asking for help from a classmate, technical
     leader, and instructor. This could be very useful
     because they might know your defect in your code.
     The last step is trial and error with
