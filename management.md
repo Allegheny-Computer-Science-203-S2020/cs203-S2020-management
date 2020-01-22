@@ -40,9 +40,9 @@
     In order to find the defects in a software project,
     first check the error
     messages terminal. Secondly, if there still are
-    effects, check the test
-    cases and asses their correctness. Lastly,
-    check TravisCI to see which
+    defects, check the test
+    cases and assess their correctness. Lastly,
+    check Travis CI to see which
     part of the program does not pass the checks. Also check GitHub peer
     reviews since a classmate might be able to catch a mistake that
     slipped by.
