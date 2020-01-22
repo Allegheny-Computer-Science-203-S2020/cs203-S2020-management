@@ -63,7 +63,6 @@
     would greatly help us communicate and
     report our progress as well as issues we face.
 
-    
   - Fix:
 
     - Search for solution on the internet
