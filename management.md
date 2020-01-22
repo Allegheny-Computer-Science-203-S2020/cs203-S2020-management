@@ -41,7 +41,7 @@
   create a branch off of master with the following naming convention: feature/
   description-of-the-feature. All the work for the new feature should be completed
   and committed in this branch and ensure that all commit messages follow the
-  outlined conventions from the GitHub guidelines. Once you feel that your feature 
+  outlined conventions from the GitHub guidelines. Once you feel that your feature
   is complete, you can begin to test your feature by writing test cases. Test
   cases should be written in the fashion appropriate for which programming
   language is being used, in the instance of this course, you should use pytest.
