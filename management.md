@@ -17,6 +17,15 @@
 - When and how frequently will you give demonstrations of the software that
   you are engineering?
 
+  The frequency of updates and demonstrations will be largely dependent upon the
+  intended audience and partially dependent on the scale of said updates.
+  Updates should be delivered relatively frequently in order to encourage
+  adherence to deadlines as well as maintain cross-team structure. Ideally,
+  lesser updates delivered within individual teams should be delivered once or
+  twice a week from assigned team members, while requests for team feedback
+  concerning the professor and teaching assistants should be delivered roughly
+  once every two weeks.
+
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
 
