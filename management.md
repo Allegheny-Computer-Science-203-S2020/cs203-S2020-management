@@ -30,7 +30,6 @@
   These demonstrations should be made every two to three times a project depending
   on faculty concerns.
 
-
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
 
