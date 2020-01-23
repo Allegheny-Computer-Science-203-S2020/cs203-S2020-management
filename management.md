@@ -40,14 +40,14 @@
       any current issues open in the Issue Tracker, connect the issue numbers. Then
       assign the members of your development team and request feedback from team
       members, Technical Leaders,and the course instructor.
-  
+
     - Create a Branch
 
       The next step is to create a branch off of master with the following naming
       convention: feature/description-of-the-feature. All the work for the new
       feature should be completed and committed in this branch and ensure that all
       commit messages follow the outlined conventions from the GitHub guidelines.
-  
+
     - Write Test Cases
 
       Once you feel that your feature is complete, you can begin to test your
@@ -56,7 +56,7 @@
       this course,you should use pytest.To ensure clarity, use descriptive names
       for your tests.Make changes where necessary depending on the accuracy of
       your tests.
-  
+
     - Open a Pull Request and Merge
 
       After testing the feature,and gaining confidence in code correctness, open a
