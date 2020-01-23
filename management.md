@@ -31,6 +31,7 @@
 
 - What is your team's software development and testing process for creating
   new features?
+
     - Utilize the Issue Tracker
   When developing a new feature the first step is to create an issue in the
   GitHub Issue Tracker. This issue should outline the purpose of this new
@@ -40,22 +41,22 @@
   members, Technical Leaders,and the course instructor. 
   
     - Create a Branch
-  The next step is to
-  create a branch off of master with the following naming convention: feature/
-  description-of-the-feature. All the work for the new feature should be completed
-  and committed in this branch and ensure that all commit messages follow the
-  outlined conventions from the GitHub guidelines. 
+  The next step is to create a branch off of master with the following naming
+  convention: feature/description-of-the-feature. All the work for the new feature
+  should be completed and committed in this branch and ensure that all commit
+  messages follow the outlined conventions from the GitHub guidelines. 
   
     - Write Test Cases
-  Once you feel that your feature
-  is complete, you can begin to test your feature by writing test cases. Test
-  cases should be written in the fashion appropriate for which programming
-  language is being used, in the instance of this course, you should use pytest.
-  To ensure clarity, use descriptive names for your tests. Make changes where
-  necessary depending on the accuracy of your tests. 
+  Once you feel that your feature is complete, you can begin to test your feature
+  by writing test cases. Test cases should be written in the fashion appropriate
+  for which programming language is being used, in the instance of this course,
+  you should use pytest.To ensure clarity, use descriptive names for your tests.
+  Make changes where necessary depending on the accuracy of your tests. 
   
     - Open a Pull Request and Merge
-  After testing the feature,and gaining confidence in code correctness, open a PR in GitHub. Request the review of team members, Technical Leaders, and the course instructor, making changes where necessary until the new feature is ready to
+  After testing the feature,and gaining confidence in code correctness, open a PR
+  in GitHub. Request the review of team members, Technical Leaders, and the course
+  instructor, making changes where necessary until the new feature is ready to
   merge.
 
 - What process will the team follow to find, report, and fix defects in the
