@@ -24,7 +24,9 @@
   lesser updates delivered within individual teams should be delivered once or
   twice a week from assigned team members, while requests for team feedback
   concerning the professor and teaching assistants should be delivered roughly
-  once every two weeks.
+  once every two weeks. Demonstrations should likely also be made for faculty
+  outside of this course, as the products of this class are being developed with
+  the intent of their distribution for use by the Computer Science department.
 
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
