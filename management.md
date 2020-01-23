@@ -46,7 +46,7 @@
     The next step is to create a branch off of master with the following naming
     convention: feature/description-of-the-feature. All the work for the new
     feature should be completed and committed in this branch and ensure that all
-    commit messages follow the outlined conventions from the GitHub guidelines.
+    commit messages follow the outlined conventions.
 
   - Write Test Cases
 
