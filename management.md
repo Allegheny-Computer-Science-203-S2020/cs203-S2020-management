@@ -70,13 +70,11 @@
     some research to try to find a solution. This
     research can be found online or in a book. The second step is
     asking for help from a classmate, technical
-    leader, and instructor. This could be very useful
-    because they might know your defect in your code.
+    leader, or instructor. This could be very helpful
+    because they may provide insight to assist in fixing the defect.
     The last step is trial and error with
-    the help of test cases. Sometimes just messing
-    around with your code you can figure out defects.
-    Also, using test cases will help
-    guideline where the error is located.
+    the help of test cases which can indicate whether the issue(s) have been
+    solved or they are still present.
 
 - How will your team know when it is finished with the
   implementation of the software project?
