@@ -5,6 +5,9 @@
 - How will you inventory the skills of team members to determine who is
   suited for specific tasks?
 
+  Using the results of our weekly assessment guides, project managers will be
+  able to gauge skill levels of individual team members.
+
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
 
