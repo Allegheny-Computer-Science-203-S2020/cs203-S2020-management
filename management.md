@@ -11,10 +11,10 @@
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
-    * communicating with each other and the project managers what we
+    * Communicate with each other and the project managers regarding what we
       have and have not worked on yet, so they can properly organize the work
-      amongst the groups
-    * Making sure that people get to do work outside of their first role for
+      among the groups
+    * Make sure that people get to do work outside of their first role for
       each project
 
 - How will you run the course sessions to ensure that you use them
