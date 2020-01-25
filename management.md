@@ -23,13 +23,13 @@
 - How and when will your team conduct blame-less postmortems to resolve
   project mistakes?
 
-  We will take on blame-less postmortems as problem that is a collective
-  responsibility to solve. Without assigning blame to a singular person, these
-  problems are a learning opportunity. When a problem arises, the person
-  that notices the issue should share this information through a Github issue tracker.
-  Here is where we can discuss the nature of the problem and present solutions.
-  With postmortems it will allow us to pool our expertise and devise a solution that
-  will solve the problem, and prevent future errors.
+  We will take on blame-less postmortems as collective problem that is our
+  responsibility to solve. These postmortems should be viewed as learning opportunities
+  that will enhance our technical abilities. When a problem arises, the person
+  that notices the issue should share this information through the Github issue
+  tracker. In the issue tracker we can discuss the nature of the problem and
+  present solutions. With postmortems it will allow us to pool our expertise
+  and devise a solution that solves and prevents future errors.
 
 - How will your team elicit, analyze, and document the requirements for the
   software project?
