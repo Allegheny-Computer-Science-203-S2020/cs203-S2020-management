@@ -7,7 +7,10 @@
 
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
-
+  - Specify tasks that need to be completed
+  - Divide tasks into categories of labor
+  - Divide team into categories of labor
+  - Assign tasks to team members by category
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
