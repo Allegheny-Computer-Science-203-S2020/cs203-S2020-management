@@ -16,6 +16,8 @@
       among the groups
     * Make sure that people get to do work outside of their first role for
       each project
+    * Rotate team members around so that each member can work on each type of
+      task
 
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
