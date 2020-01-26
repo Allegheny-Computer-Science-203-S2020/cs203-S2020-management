@@ -39,7 +39,7 @@
 
     In order to find the defects in a software project,
     first check the error
-    messages terminal. Secondly, if there still are
+    messages in the terminal window. Secondly, if there still are
     defects, check the test
     cases and assess their correctness. Lastly,
     check Travis CI to see which
