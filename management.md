@@ -7,9 +7,11 @@
 
   Identify and list skills that are relevant to the project, such as skills for
   resolving issues with GitHub workflow, debugging, problem-solving, and markdown
-  skills. Let each team member access their skills with “Assessment Guidelines”
+  skills. Each team member will assess their skills with “Assessment Guidelines”
   and identify areas they are experts in, areas they do not have much experience
-  with, and skills they would like to practice and improve.
+  with, and skills they would like to practice and improve. Project managers are
+  responsible for keeping track of who is good at what, but team members must
+  also be communicative and open to volunteering.
 
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
