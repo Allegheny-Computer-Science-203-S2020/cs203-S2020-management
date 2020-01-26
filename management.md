@@ -32,6 +32,38 @@
 - What is your team's software development and testing process for creating
   new features?
 
+  - Utilize the Issue Tracker
+
+    When developing a new feature the first step is to create an issue in the
+    GitHub Issue Tracker. This issue should outline the purpose of the new
+    feature and the steps needed for feature development. If this feature solves
+    any current issues open in the Issue Tracker, connect the issue numbers.
+    Next, assign the members of your development team and request feedback
+    from team members, Technical Leaders, and the course instructor.
+
+  - Create a Branch
+
+    The next step is to create a branch off of master with the following naming
+    convention: `feature/description-of-the-feature`. All the work for the new
+    feature should be completed and committed in this branch to avoid
+    merge conflicts and breaking the current build.
+
+  - Write Test Cases
+
+    Once you feel that your feature is complete, you can begin to test your
+    feature by writing test cases. Test cases should be written in the appropriate
+    fashion for the programming language being used, in the instance of
+    this course you should use pytest. To ensure clarity, use descriptive names
+    for your tests. Make changes where necessary depending on the accuracy of
+    your tests.
+
+  - Open a Pull Request and Merge
+
+    After testing the feature, and gaining confidence in code correctness,
+    open a PR in GitHub. Request the review of team members, Technical Leaders
+    and the course instructor, making changes where necessary until the new
+    feature is ready to merge.
+
 - What process will the team follow to find, report, and fix defects in the
   software project?
 
