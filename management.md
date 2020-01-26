@@ -7,7 +7,7 @@
 
   Identify and list skills that are relevant to the project, such as skills for
   resolving issues with GitHub workflow, debugging, problem-solving, and markdown
-  skills.
+  skills. Let each team member access their skills with “Assessment Guidelines” and identify areas they are experts in, areas they do not have much experience with, and skills they would like to practice and improve.
 
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
