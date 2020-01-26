@@ -44,7 +44,7 @@
   - Create a Branch
 
     The next step is to create a branch off of master with the following naming
-    convention: "feature/description-of-the-feature". All the work for the new
+    convention: `feature/description-of-the-feature`. All the work for the new
     feature should be completed and committed in this branch to avoid
     merge conflicts and breaking the current build.
 
