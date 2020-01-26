@@ -14,6 +14,13 @@
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
 
+  The first step to ensure that the session is run efficiently will be to
+  have a quick planning meeting with all the team leaders in order to develop
+  an actionable strategy for meeting and achieving the project's requirements.
+  This will involve a clear, detailed breakdown of which team is responsible
+  each project requirement, as well as creating and sharing tentative
+  completion deadlines for each section. 
+
 - When and how frequently will you give demonstrations of the software that
   you are engineering?
 
