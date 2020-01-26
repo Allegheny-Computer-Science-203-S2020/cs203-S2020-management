@@ -35,5 +35,46 @@
 - What process will the team follow to find, report, and fix defects in the
   software project?
 
-- How will your team know when it is finished with the implementation of the
-  software project?
+  - Finding Defects:
+
+    In order to find the defects in a software project,
+    first check the error
+    messages in the terminal window. Secondly, if there still are
+    defects, check the test
+    cases and assess their correctness. Lastly,
+    check Travis CI to see which
+    part of the program does not pass the checks. Also check GitHub peer
+    reviews since a classmate might be able to catch a mistake that
+    slipped by.
+
+  - Report:
+
+    There are many tools that software engineers
+    use to communicate and report
+    any bugs, errors, or defects in the project. Each tool has a different
+    purpose, and benefit for using it. GitHub
+    issue trackers and pull request
+    threads can be great ways to point out issues,
+    review code, and suggest
+    new changes. On the other hand,
+     Slack work-spaces can also help in direct
+    communication through group chats and channels designated to specific
+    topics. All of these tools combined
+    would greatly help us communicate and
+    report our progress as well as issues we face.
+
+  - Fix:
+
+    Fixing defects is an important part of getting your
+    code to work smoothly. The first step is doing
+    some research to try to find a solution. This
+    research can be found online or in a book. The second step is
+    asking for help from a classmate, technical
+    leader, or instructor. This could be very helpful
+    because they may provide insight to assist in fixing the defect.
+    The last step is trial and error with
+    the help of test cases which can indicate whether the issue(s) have been
+    solved or they are still present.
+
+- How will your team know when it is finished with the
+  implementation of the software project?
