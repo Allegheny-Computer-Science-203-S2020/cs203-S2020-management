@@ -23,8 +23,19 @@
     Once tasks have been divided accordingly, it will be possible to divide the
     team into sub-teams to complete tasks. Each sub-team should contain members
     with different skills so that groups can divide their assigned labor accordingly.
-    For example, each group should have a `Project Manager` that is able to 
+    For example, each group should have a `Project Manager` that is able to oversee
+    group operations and communicate with other group managers. This will allow
+    for lateral communication and provide each group with the power of the entire
+    team through the responsibility of each person to communicate outside the group
+    according to their skillset.
+
   - Assign tasks to team members by category
+    After the division of teams, it is time to distribute the tasks into each group.
+    This should be accomplished by assigning each group to a whole category so that
+    the group will be internally responsible for the oversight of that category
+    of labor. This will speed of the process of production as teams will have greater
+    autonomy over handling tasks within a category.
+
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
