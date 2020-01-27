@@ -34,8 +34,8 @@
   - Creating a blame-less postmortem:
 
     They should be created immediately when a team member notices the
-    issue. The postmortems will be discussed in a Github issue tracker with
-    "blame-less postmortem" in the title. You may assign specific people to the
+    issue. These will be discussed in a Github issue tracker with
+    `blame-less postmortem` tag in the title. You may assign specific people to the
     issue tracker, on the basis that they are well suited to solving the problem.
     You should not assign people because you believe they created the error.
     New people can be assigned after the initial creation of the issue tracker.
