@@ -45,10 +45,11 @@
     We will take on blame-less postmortems as collective problem that is our
     responsibility to solve. These postmortems should be viewed as learning opportunities
     that will enhance our technical and professional abilities. When discussing the
-    details of the postmortem you should not directly or indirectly blame any one group
-    or individual. Everyone's concerns in the issue tracker should be listened to
-    and considered when developing a fix. The point of this is to pool our
-    expertise and devise a solution that solves and prevents future errors.
+    details of the postmortem you should not directly or indirectly blame
+    any one group or individual. Everyone's concerns in the issue tracker
+    should be listened to and considered when developing a fix. The point
+    of this is to pool our expertise and devise a solution that solves and
+    prevents future errors.
 
   - Closing a blame-less postmortem:
 
