@@ -26,10 +26,6 @@
 - How will your team elicit, analyze, and document the requirements for the
   software project?
 
-  In this case, "elicit" means to figure out the work that we would need to
-  do- in other words, understand what components and features the project would
-  have.
-
   Elicit the requirements for the software project by talking to the customer(s),
   the student technical leaders and instructor. Determine the features that would
   be needed to create a fully functional version of the requested software to
