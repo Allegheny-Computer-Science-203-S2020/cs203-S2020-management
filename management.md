@@ -21,7 +21,11 @@
   each project requirement, as well as creating and sharing tentative
   completion deadlines for each section.
 
-  Next, the team leaders should return to their groups and run through the plan and timeline for execution, before assigning tasks to fellow teammates. To maximize efficiency, team members should be allowed (if applicable) to determine which parts of the task they would like to work on. This should allow team members to play to their strengths, and to help ensure that everyone stays on task.
+  Next, the team leaders should return to their groups and run through the plan and
+  timeline for execution, before assigning tasks to fellow teammates. To maximize
+  efficiency, team members should be allowed (if applicable) to determine which parts
+  of the task they would like to work on. This should allow team members to play to
+  their strengths, and to help ensure that everyone stays on task.
 
 - When and how frequently will you give demonstrations of the software that
   you are engineering?
