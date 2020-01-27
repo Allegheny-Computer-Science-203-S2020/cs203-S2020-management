@@ -34,22 +34,21 @@
   - Creating a blame-less postmortem:
 
     They should be created immediately when a team member notices the
-    issue. These will be discussed in a Github issue tracker with
+    issue. These will be discussed in a Github issue tracker with a
     `blame-less postmortem` tag in the title. You may assign specific people to the
     issue tracker, on the basis that they are well suited to solving the problem.
     You should not assign people because you believe they created the error.
-    New people can be assigned after the initial creation of the issue tracker.
+    New group members can be assigned after the initial creation of the issue tracker.
 
   - Responding to a blame-less postmortem:
 
     We will take on blame-less postmortems as collective problem that is our
     responsibility to solve. These postmortems should be viewed as learning opportunities
-    that will enhance our technical abilities. When discussing the details of the
-    postmortem you should not directly or indirectly blame any one group or individual
-    affiliated with a particular area. Everyone's concerns in the issue tracker
-    should be listened to and considered when developing a fix. The point of postmortems
-    is that it allows us to pool our expertise and devise a solution that solves
-    and prevents future errors.
+    that will enhance our technical and professional abilities. When discussing the
+    details of the postmortem you should not directly or indirectly blame any one group
+    or individual. Everyone's concerns in the issue tracker should be listened to
+    and considered when developing a fix. The point of this is to pool our
+    expertise and devise a solution that solves and prevents future errors.
 
   - Closing a blame-less postmortem:
 
