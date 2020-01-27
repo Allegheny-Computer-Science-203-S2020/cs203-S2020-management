@@ -38,4 +38,6 @@
 - How will your team know when it is finished with the implementation of the
   software project?
 
-  Our team will know when it is finished with the implementation of the software project because of two reasons. First, our software project will not only compile, but it should run effectively with the desired output.
+  Our team will know when it is finished with the implementation of the software
+  project because of two reasons. First, our software project will not only
+  compile, but it should run effectively with the desired output.
