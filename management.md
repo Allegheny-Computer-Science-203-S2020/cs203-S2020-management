@@ -29,8 +29,8 @@
     issue. The postmortems will be discussed in a Github issue tracker with
     "blame-less postmortem" in the title. You may assign specific people to the
     issue tracker, on the basis that they are well suited to solving the problem.
-    You should not assign people because you believe they created the error. New people
-    can be assigned after the initial creation of the issue tracker.
+    You should not assign people because you believe they created the error.
+    New people can be assigned after the initial creation of the issue tracker.
 
   - Responding to a blame-less postmortem:
 
