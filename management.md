@@ -25,6 +25,9 @@
 
 - How will your team elicit, analyze, and document the requirements for the
   software project?
+  * In this case, "elicit" means to figure out the work that we would need to
+  do- in other words, understand what components and features the project would
+  have
 
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
