@@ -25,8 +25,9 @@
   In order to ensure that the session runs efficiently the team leaders for each
   team should have a quick planning meeting to make sure that the groups are
   working to achieve the project's requirements. This will involve a clear,
-  detailed breakdown of which team is responsible each project requirement, as
-  well as creating and sharing tentative completion deadlines for each section.
+  detailed breakdown specifying which team is responsible for which project
+  requirement, as well as creating and sharing tentative completion
+  deadlines for each section.
 
   Next, the team leaders should return to their groups and run through the plan
   and timeline for execution, before assigning tasks to fellow teammates. To
