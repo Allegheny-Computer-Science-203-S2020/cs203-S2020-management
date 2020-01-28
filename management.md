@@ -75,6 +75,18 @@
 - How will your team elicit, analyze, and document the requirements for the
   software project?
 
+  Elicit the requirements for the software project by talking to the customer(s),
+  the student technical leaders and instructor. Determine the features that would
+  be needed to create a fully functional version of the requested software to
+  formulate the software project requirements. Analyze each requirement and how
+  it fits into the overall scope of the project. Break down the requirements into
+  sub-requirements if necessary and prioritize them. Document the requirements
+  for the software project on GitHub in the Issue Tracker or elsewhere if
+  necessary, such as within the README or in Pull Requests. The process of
+  eliciting, analyzing, and documenting the requirements for the software project
+  should actively continue throughout the project, not just at the beginning, as
+  things oftentimes change during the software engineering process.
+
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
 
