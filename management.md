@@ -19,13 +19,11 @@
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
-    * Communicate with each other and the project managers regarding what we
-      have and have not worked on yet, so they can properly organize the work
-      among the groups
-    * Make sure that people get to do work outside of their first role for
-      each project
-    * Rotate team members around so that each member can work on each type of
-      task
+  Project managers will communicate with each other and the team members regarding
+  what we have and have not worked on yet, so they can properly organize the work
+  among the groups. We must make sure that people get to do work outside of their
+  first role for each project. Team members should be given opportunities to try
+  new skills with each project.
 
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
