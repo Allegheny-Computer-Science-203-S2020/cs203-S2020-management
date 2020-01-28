@@ -161,7 +161,7 @@
   project when the following is complete. First, our software project will not
   only compile, but it should run effectively with the desired output. Secondly,
   it should pass any requirement checks for what the program should do that are
-  given at the beginning of the project. The final thing the team should do to
+  given at the beginning of the project. The final task the team should do to
   know they have finished the implementation of the project is by running through
   the assessment and conduct guide to ensure everything meets the requirements
   outlined in them.
