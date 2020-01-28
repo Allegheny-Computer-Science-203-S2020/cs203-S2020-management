@@ -31,7 +31,7 @@
     and allow for individual members to communicate with project specialists outside
     of their own groups.
 
-  - Assign tasks to team members by category
+  - Assign tasks to sub-teams by category
 
     As for specific tasks, project specialists and project managers can take the
     tasks that most pertain to them and any other tasks that they may feel comfortable
