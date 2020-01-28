@@ -103,7 +103,7 @@
 - What is your team's software development and testing process for creating
   new features?
 
-  - Utilize the Issue Tracker
+  - Utilize the Issue Tracker:
 
     When developing a new feature the first step is to create an issue in the
     GitHub Issue Tracker. This issue should outline the purpose of the new
@@ -112,14 +112,14 @@
     Next, assign the members of your development team and request feedback
     from team members, Technical Leaders, and the course instructor.
 
-  - Create a Branch
+  - Create a Branch:
 
     The next step is to create a branch off of master with the following naming
     convention: `feature/description-of-the-feature`. All the work for the new
     feature should be completed and committed in this branch to avoid
     merge conflicts and breaking the current build.
 
-  - Write Test Cases
+  - Write Test Cases:
 
     Once you feel that your feature is complete, you can begin to test your
     feature by writing test cases. Test cases should be written in the appropriate
@@ -128,7 +128,7 @@
     for your tests. Make changes where necessary depending on the accuracy of
     your tests.
 
-  - Open a Pull Request and Merge
+  - Open a Pull Request and Merge:
 
     After testing the feature, and gaining confidence in code correctness,
     open a PR in GitHub. Request the review of team members, Technical Leaders
