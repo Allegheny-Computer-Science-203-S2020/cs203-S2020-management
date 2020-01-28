@@ -44,6 +44,19 @@
 - When and how frequently will you give demonstrations of the software that
   you are engineering?
 
+  The frequency of updates and demonstrations will be largely dependent upon the
+  intended audience and partially dependent on the scale of said updates.
+  Updates should be delivered relatively frequently in order to encourage
+  adherence to deadlines as well as maintain cross-team structure. Ideally,
+  lesser updates delivered within individual teams should be delivered once or
+  twice a week from assigned team members, while requests for team feedback
+  concerning the professor and teaching assistants should be delivered roughly
+  once every two weeks. Demonstrations should likely also be made for faculty
+  outside of this course, as the products of this class are being developed with
+  the intent of their distribution for use by the Computer Science department.
+  These demonstrations should be made every two to three times a project depending
+  on faculty concerns.
+
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
 
@@ -81,6 +94,18 @@
 - How will your team elicit, analyze, and document the requirements for the
   software project?
 
+  Elicit the requirements for the software project by talking to the customer(s),
+  the student technical leaders and instructor. Determine the features that would
+  be needed to create a fully functional version of the requested software to
+  formulate the software project requirements. Analyze each requirement and how
+  it fits into the overall scope of the project. Break down the requirements into
+  sub-requirements if necessary and prioritize them. Document the requirements
+  for the software project on GitHub in the Issue Tracker or elsewhere if
+  necessary, such as within the README or in Pull Requests. The process of
+  eliciting, analyzing, and documenting the requirements for the software project
+  should actively continue throughout the project, not just at the beginning, as
+  things oftentimes change during the software engineering process.
+
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
 
@@ -97,7 +122,7 @@
 - What is your team's software development and testing process for creating
   new features?
 
-  - Utilize the Issue Tracker
+  - Utilize the Issue Tracker:
 
     When developing a new feature the first step is to create an issue in the
     GitHub Issue Tracker. This issue should outline the purpose of the new
@@ -106,14 +131,14 @@
     Next, assign the members of your development team and request feedback
     from team members, Technical Leaders, and the course instructor.
 
-  - Create a Branch
+  - Create a Branch:
 
     The next step is to create a branch off of master with the following naming
     convention: `feature/description-of-the-feature`. All the work for the new
     feature should be completed and committed in this branch to avoid
     merge conflicts and breaking the current build.
 
-  - Write Test Cases
+  - Write Test Cases:
 
     Once you feel that your feature is complete, you can begin to test your
     feature by writing test cases. Test cases should be written in the appropriate
@@ -122,7 +147,7 @@
     for your tests. Make changes where necessary depending on the accuracy of
     your tests.
 
-  - Open a Pull Request and Merge
+  - Open a Pull Request and Merge:
 
     After testing the feature, and gaining confidence in code correctness,
     open a PR in GitHub. Request the review of team members, Technical Leaders
@@ -173,5 +198,14 @@
     the help of test cases which can indicate whether the issue(s) have been
     solved or they are still present.
 
-- How will your team know when it is finished with the
-  implementation of the software project?
+- How will your team know when it is finished with the implementation of the
+  software project?
+
+  Our team will know when it is finished with the implementation of the software
+  project when the following is complete. First, our software project will not
+  only compile, but it should run effectively with the desired output. Secondly,
+  it should pass any requirement checks for what the program should do that are
+  given at the beginning of the project. The final task the team should do to
+  know they have finished the implementation of the project is by running through
+  the assessment and conduct guide to ensure everything meets the requirements
+  outlined in them.
