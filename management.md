@@ -7,6 +7,7 @@
 
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
+
   - Specify tasks that need to be completed
 
     When dividing the entire team into sub-teams, the first step is realizing all
@@ -20,20 +21,21 @@
     even as possible while remaining accurate.
 
   - Divide team into categories of labor
-    Once tasks have been divided accordingly, it will be possible to divide the
-    team into sub-teams to complete tasks. Each sub-team should contain members
-    with different skills so that groups can divide their assigned labor accordingly.
-    For example, each group should have a `Project Manager` that is able to oversee
-    group operations and communicate with other group managers. This will allow
-    for lateral communication and provide each group with the power of the entire
-    team through the responsibility of each person to communicate outside the group
-    according to their skillset.
+
+    Each sub-team should contain members with different skills so that groups can
+    divide their assigned labor accordingly. For example, each group should have
+    a `Project Manager` that is able to oversee group operations and communicate
+    with other group managers. Outside of the project managers their should be project
+    specialists whose role should be specific to the entire group's project, based
+    on what needs to be done. This will provide each group with lateral communication
+    and allow for individual members to communicate with project specialists outside
+    of their own groups.
 
   - Assign tasks to team members by category
-    After the division of teams, it is time to distribute the tasks into each group.
-    This should be accomplished by assigning each group to a whole category so that
-    the group will be internally responsible for the oversight of that category
-    of labor. This will speed of the process of production as teams will have greater
+
+    As for specific tasks, project specialists and project managers can take the
+    tasks that most pertain to them and any other tasks that they may feel comfortable
+    undertaking. This will speed up the production process as teams will have greater
     autonomy over handling tasks within a category.
 
 - How will you ensure everyone has the opportunity to master all software
