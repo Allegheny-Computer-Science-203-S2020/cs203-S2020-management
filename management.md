@@ -179,5 +179,14 @@
     the help of test cases which can indicate whether the issue(s) have been
     solved or they are still present.
 
-- How will your team know when it is finished with the
-  implementation of the software project?
+- How will your team know when it is finished with the implementation of the
+  software project?
+
+  Our team will know when it is finished with the implementation of the software
+  project when the following is complete. First, our software project will not
+  only compile, but it should run effectively with the desired output. Secondly,
+  it should pass any requirement checks for what the program should do that are
+  given at the beginning of the project. The final task the team should do to
+  know they have finished the implementation of the project is by running through
+  the assessment and conduct guide to ensure everything meets the requirements
+  outlined in them.
