@@ -38,7 +38,7 @@
 
   Another thing that will help with the groups effectiveness is constant
   communication not only within the smaller groups but also with the whole
-  class. Team leaders need to make sure that there smaller groups are on task
+  class. Team leaders need to make sure that their smaller groups are on task
   and will be able to finish their code on time.
 
 - When and how frequently will you give demonstrations of the software that
