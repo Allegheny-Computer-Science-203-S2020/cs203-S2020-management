@@ -37,6 +37,16 @@
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
 
+  If a feature is unable to be implemented after the task was distributed to team
+   members, the team should research and discuss alternative resolutions. If the
+   team makes the decision that there are no feasible alternative solutions, team
+   members need to be able to move forward on implementing other promised features.
+   It is better to fully implement some promised features than only partially
+   implement all features. However, be aware that the team should do research at
+   the pre-implementation stage of the project to decide if a feature is feasible.
+   Team members should follow the GitHub Flow model to communicate with each other
+   during the process of resolving the unimplementable feature.
+
 - What is your team's software development and testing process for creating
   new features?
 
