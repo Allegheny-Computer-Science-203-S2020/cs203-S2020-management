@@ -35,11 +35,49 @@
 - How and when will your team conduct blame-less postmortems to resolve
   project mistakes?
 
+  - Creating a blame-less postmortem:
+
+    They should be created immediately when a team member notices the
+    issue. These will be discussed in a Github issue tracker with a
+    `blame-less postmortem` tag in the title. You may assign specific people to the
+    issue tracker, on the basis that they are well suited to solving the problem.
+    You should not assign people because you believe they created the error.
+    New group members can be assigned after the initial creation of the issue tracker.
+
+  - Responding to a blame-less postmortem:
+
+    We will take on blame-less postmortems as collective problem that is our
+    responsibility to solve. These postmortems should be viewed as learning opportunities
+    that will enhance our technical and professional abilities. When discussing the
+    details of the postmortem you should not directly or indirectly blame
+    any one group or individual. Everyone's concerns in the issue tracker
+    should be listened to and considered when developing a fix. The point
+    of this is to pool our expertise and devise a solution that solves and
+    prevents future errors.
+
+  - Closing a blame-less postmortem:
+
+    Postmortems can only be closed if there's empirical evidence showing that the
+    problem is no longer present. Additionally everyone assigned to the blame-less
+    postmortem has to agree that the problem has been solved, and that the issue
+    racker can be closed. The issue cannot be closed just because a build passes
+    checking software such as Travis-CI.
+
 - How will your team elicit, analyze, and document the requirements for the
   software project?
 
 - What will your team do if it determines that it cannot feasibly implement
   promised features?
+
+  If a feature is unable to be implemented after the task was distributed to team
+   members, the team should research and discuss alternative resolutions. If the
+   team makes the decision that there are no feasible alternative solutions, team
+   members need to be able to move forward on implementing other promised features.
+   It is better to fully implement some promised features than only partially
+   implement all features. However, be aware that the team should do research at
+   the pre-implementation stage of the project to decide if a feature is feasible.
+   Team members should follow the GitHub Flow model to communicate with each other
+   during the process of resolving the unimplementable feature.
 
 - What is your team's software development and testing process for creating
   new features?
@@ -101,7 +139,7 @@
     threads can be great ways to point out issues,
     review code, and suggest
     new changes. On the other hand,
-     Slack work-spaces can also help in direct
+    Slack work-spaces can also help in direct
     communication through group chats and channels designated to specific
     topics. All of these tools combined
     would greatly help us communicate and
