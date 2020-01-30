@@ -58,6 +58,25 @@
 - How will you run the course sessions to ensure that you use them
   to maximum effectiveness?
 
+  In order to ensure that the session runs efficiently the team leaders for each
+  team should have a quick planning meeting to make sure that the groups are
+  working to achieve the project's requirements. This will involve a clear,
+  detailed breakdown specifying which team is responsible for which project
+  requirement, as well as creating and sharing tentative completion
+  deadlines for each section.
+
+  Next, the team leaders should return to their groups and run through the plan
+  and timeline for execution, before assigning tasks to fellow teammates. To
+  maximize efficiency, team members should be allowed (if applicable) to
+  determine which parts of the task they would like to work on. This should
+  allow team members to play to their strengths, and to help ensure that
+  everyone stays on task.
+
+  Another thing that will help with the groups effectiveness is constant
+  communication not only within the smaller groups but also with the whole
+  class. Team leaders need to make sure that their smaller groups are on task
+  and will be able to finish their code on time.
+
 - When and how frequently will you give demonstrations of the software that
   you are engineering?
 
