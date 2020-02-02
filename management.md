@@ -16,6 +16,36 @@
 - How will you divide the entire team into sub-teams assigned to complete
   specific tasks?
 
+  - Specify Tasks
+
+    When dividing the entire team into sub-teams, the first step is realizing all
+    the tasks that need to be accomplished. This includes making an expansive list
+    of tasks and taking care not to overlook details even if they seem unimportant.
+
+  - Divide Tasks into Categories
+
+    Once a comprehensive list of tasks exists, the next step is to divide these
+    tasks according to category of labor. The distribution of tasks should be as
+    even as possible while remaining accurate.
+
+  - Divide Team Evenly
+
+    Each sub-team should contain members with different skills so that groups can
+    divide their assigned labor accordingly. For example, each group should have
+    a `Project Manager` that is able to oversee group operations and communicate
+    with other group managers. Outside of the project managers their should be project
+    specialists whose role should be specific to the entire group's project, based
+    on what needs to be done. This will provide each group with lateral communication
+    and allow for individual members to communicate with project specialists outside
+    of their own groups.
+
+  - Assign Tasks to Teams
+
+    As for specific tasks, project specialists and project managers can take the
+    tasks that most pertain to them and any other tasks that they may feel comfortable
+    undertaking. This will speed up the production process as teams will have greater
+    autonomy over handling tasks within a category.
+
 - How will you ensure everyone has the opportunity to master all software
   engineering skills?
 
