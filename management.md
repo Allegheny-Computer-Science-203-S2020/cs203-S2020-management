@@ -77,6 +77,11 @@
 - How will you adjust the project's schedule if the team falls behind on the
   completion of tasks?
 
+  First evaluate the tasks at hand and see what tasks the group is behind on.
+  After a self-assessment, plan out a new strategy to finish uncompleted tasks
+  by examining what needs to be completed. After we will distribute the tasks
+  evenly amongst the group with a set date to be finished by.
+
 - How and when will your team conduct blame-less postmortems to resolve
   project mistakes?
 
